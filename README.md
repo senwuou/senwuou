@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @senwuou
 - 👀 I’m interested in NLP
-- 🌱 I’m currently learning NLP for biology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 196371186@qq.com
 - 😄 Pronouns: haooahs
